@@ -1,5 +1,6 @@
 # public-example-django
 Simple django app for use in the docker-local-dev blog.  
+
 Related repositories:
 * [public-docker-local-dev](https://github.com/vidahealth/public-docker-local-dev) is the main repository for the local dev environment
 * https://github.com/vidahealth/public-example-django (this respository) is the example main backend webserver service
